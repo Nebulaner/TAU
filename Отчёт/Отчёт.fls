@@ -234,6 +234,8 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\Mi
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\lati1440.tfm
 OUTPUT Отчёт.toc
+INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1000.tfm
+INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0700.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1728.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labi2074.tfm
 INPUT Отчёт.aux
@@ -243,6 +245,8 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\font
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labi2074.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
+INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk
+INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1440.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\lati1440.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx3583.pk
@@ -255,3 +259,11 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\font
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1728.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1440.pk
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
