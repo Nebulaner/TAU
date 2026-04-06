@@ -1,0 +1,27 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Введение}{4}{chapter*.1}%
+\contentsline {section}{Техническое задание}{5}{section*.2}%
+\contentsline {section}{\numberline {1}Математическая модель системы управления}{6}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}Уравнения движения механической части}{6}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}Характеристики двигателя}{6}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {1.3}Передаточная функция обратной связи}{6}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {1.4}Операторная форма системы уравнения движения}{6}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {1.5}Матричная форма системы уравнений движения в изображениях по Лапласу}{6}{subsection.0.1.5}%
+\contentsline {subsection}{\numberline {1.6}Структурная схема системы уравнения}{6}{subsection.0.1.6}%
+\contentsline {section}{\numberline {2}Область устойчивости системы уравнения в пространстве (\textit {k}Д, \textit {k}И)}{7}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}Характеристическое уравнение}{7}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {2.2}Критерий устойчивости Стодолы и Рауса-Гурвица}{7}{subsection.0.2.2}%
+\contentsline {subsection}{\numberline {2.3}Проверка устойчивости с помощью Михайлова}{7}{subsection.0.2.3}%
+\contentsline {section}{\numberline {3}Исследование переходных процессов}{8}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Обратное преобразование Лапласа}{8}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Особенности переходных процессов в области устойчивости и на её границе}{8}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Область допустимых значений крутящего момента на выходном валу передаточного механизма}{8}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Область допустимых значений управляющего сигнала}{8}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}Линии равных длительностей переходных процессов. Минимальная и максимальная длительности}{8}{subsection.0.3.5}%
+\contentsline {section}{\numberline {4}Оптимальное уравнение}{9}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Линии равных уровней интегрального показателя качества при нулевом весовом множителе}{9}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Линии равных уровней интегрального показателя качества при бесконечно большом весовом множителе}{9}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.3}Линии равных уровней интегрального показателя качества при весовом множителе, определённым на основе ограничений}{9}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {4.4}Анализ переходных процессов по оптимальной кривой}{9}{subsection.0.4.4}%
+\contentsline {subsection}{\numberline {4.5}Описание наилучшего переходного процесса}{9}{subsection.0.4.5}%
+\contentsline {section}{Выводы}{10}{subsection.0.4.5}%
