@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  6 APR 2026 20:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  6 APR 2026 20:30
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"f:/Политех/4 сем/ТАУ/Отчёт/main.tex"
-(f:/Политех/4 сем/ТАУ/Отчёт/main.tex
+**"f:/Политех/4 сем/ТАУ/Отчёт/Отчёт.tex"
+(f:/Политех/4 сем/ТАУ/Отчёт/Отчёт.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex/latex/extsizes\extreport.cls
@@ -709,11 +709,11 @@ File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 ) (C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count341
-) (main.aux
+) (Отчёт.aux
 Package babel Info: 'russian' activates 'russian' shorthands.
 (babel)             Reported on input line 8.
 )
-\openout1 = `main.aux'.
+\openout1 = `Отчёт.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
 LaTeX Font Info:    ... okay on input line 72.
@@ -777,9 +777,9 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 72.
-(main.out) (main.out)
+(Отчёт.out) (Отчёт.out)
 \@outlinefile=\write3
-\openout3 = `main.out'.
+\openout3 = `Отчёт.out'.
 
 \c@lstlisting=\count342
  (C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
@@ -802,7 +802,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 )) [1
 
-{C:/Users/Константин Гумницкий/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (main.toc
+{C:/Users/Константин Гумницкий/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Отчёт.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 2.
  (C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -819,14 +819,14 @@ Underfull \hbox (badness 1028) in paragraph at lines 20--20
 
 )
 \tf@toc=\write4
-\openout4 = `main.toc'.
+\openout4 = `Отчёт.toc'.
 
- [3] [4] [5] [6] [7] [8] [9] [10] (main.aux)
+ [3] [4] [5] [6] [7] [8] [9] [10] (Отчёт.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
-Package rerunfilecheck Info: File `main.out' has not changed.
+Package rerunfilecheck Info: File `Отчёт.out' has not changed.
 (rerunfilecheck)             Checksum: 3F83653B196248D6E6E9BDCE6EE6399E;11476.
  )
 (\end occurred inside a group at level 1)
@@ -835,14 +835,14 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 ### bottom level 
 Here is how much of TeX's memory you used:
  17067 strings out of 467867
- 281270 string characters out of 5401843
- 881411 words of memory out of 5000000
+ 281420 string characters out of 5401843
+ 881423 words of memory out of 5000000
  45682 multiletter control sequences out of 15000+600000
  638591 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,6n,79p,1048b,719s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,1054b,719s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi2074.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx3583.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk>
-Output written on main.pdf (10 pages, 120475 bytes).
+Output written on Отчёт.pdf (10 pages, 120475 bytes).
 PDF statistics:
  427 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)

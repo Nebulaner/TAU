@@ -1,7 +1,7 @@
 PWD f:\Политех\4 сем\ТАУ\Отчёт
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT f:\Политех\4 сем\ТАУ\Отчёт\main.tex
-OUTPUT main.log
+INPUT f:\Политех\4 сем\ТАУ\Отчёт\Отчёт.tex
+OUTPUT Отчёт.log
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\extreport.cls
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\extreport.cls
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\latex\extsizes\size14.clo
@@ -186,18 +186,18 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\Mi
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstmisc.sty
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
-INPUT .\main.aux
-INPUT .\main.aux
-INPUT main.aux
-OUTPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
-INPUT main.out
-INPUT main.out
-OUTPUT main.pdf
-INPUT .\main.out
-INPUT .\main.out
-OUTPUT main.out
+INPUT .\Отчёт.aux
+INPUT .\Отчёт.aux
+INPUT Отчёт.aux
+OUTPUT Отчёт.aux
+INPUT .\Отчёт.out
+INPUT .\Отчёт.out
+INPUT Отчёт.out
+INPUT Отчёт.out
+OUTPUT Отчёт.pdf
+INPUT .\Отчёт.out
+INPUT .\Отчёт.out
+OUTPUT Отчёт.out
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -213,9 +213,9 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\font
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm3583.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx3583.tfm
-INPUT .\main.toc
-INPUT .\main.toc
-INPUT main.toc
+INPUT .\Отчёт.toc
+INPUT .\Отчёт.toc
+INPUT Отчёт.toc
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
@@ -233,12 +233,12 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\Mi
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\lati1440.tfm
-OUTPUT main.toc
+OUTPUT Отчёт.toc
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1728.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labi2074.tfm
-INPUT main.aux
-INPUT .\main.out
-INPUT .\main.out
+INPUT Отчёт.aux
+INPUT .\Отчёт.out
+INPUT .\Отчёт.out
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labi2074.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labi2074.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
