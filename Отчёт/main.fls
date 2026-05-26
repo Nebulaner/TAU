@@ -414,12 +414,13 @@ OUTPUT main.toc
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1440.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm1000.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\larm0700.tfm
-INPUT .\Sheme.png
-INPUT .\Sheme.png
-INPUT .\Sheme.png
-INPUT .\Sheme.png
-INPUT .\Sheme.png
-INPUT .\Sheme.png
+INPUT .\Sheme.jpg
+INPUT .\Sheme.jpg
+INPUT .\Sheme.jpg
+INPUT .\Sheme.jpg
+INPUT .\Sheme.jpg
+INPUT .\Sheme.jpg
+INPUT .\Sheme.jpg
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\tfm\lh\lh-t2a\labx1728.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
@@ -444,14 +445,14 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\font
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
-INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk
-INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1200.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labi2074.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labi2074.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\labx1728.pk
+INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk
+INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0700.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm1000.pk
 INPUT C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1440.pk
@@ -484,8 +485,6 @@ INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\Mi
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
-INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
-INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr7.pfb
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Константин Гумницкий\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb

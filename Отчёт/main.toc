@@ -8,20 +8,20 @@
 \contentsline {subsection}{\numberline {1.4}Операторная форма системы уравнений движения}{11}{subsection.0.1.4}%
 \contentsline {subsection}{\numberline {1.5}Матричная форма системы уравнений движения в изображениях по Лапласу}{11}{subsection.0.1.5}%
 \contentsline {subsection}{\numberline {1.6}Структурная схема системы уравнения}{12}{subsection.0.1.6}%
-\contentsline {section}{\numberline {2}Область устойчивости системы уравнения в пространстве (\textit {k}П, \textit {k}И)}{14}{section.0.2}%
+\contentsline {section}{\numberline {2}Область устойчивости системы уравнения в пространстве (\textit {k}ПМ, \textit {k}ИМ, \textit {k}ДМ)}{14}{section.0.2}%
 \contentsline {subsection}{\numberline {2.1}Характеристическое уравнение}{14}{subsection.0.2.1}%
 \contentsline {subsection}{\numberline {2.2}Критерий устойчивости Стодолы и Рауса-Гурвица}{14}{subsection.0.2.2}%
 \contentsline {subsection}{\numberline {2.3}Проверка устойчивости с помощью Михайлова}{16}{subsection.0.2.3}%
-\contentsline {section}{\numberline {3}Исследование переходных процессов}{19}{section.0.3}%
-\contentsline {subsection}{\numberline {3.1}Обратное преобразование Лапласа}{19}{subsection.0.3.1}%
-\contentsline {subsection}{\numberline {3.2}Особенности переходных процессов в области устойчивости и на её границе}{20}{subsection.0.3.2}%
-\contentsline {subsection}{\numberline {3.3}Область допустимых значений крутящего момента на выходном валу передаточного механизма}{22}{subsection.0.3.3}%
-\contentsline {subsection}{\numberline {3.4}Область допустимых значений управляющего сигнала}{23}{subsection.0.3.4}%
-\contentsline {subsection}{\numberline {3.5}Линии равных длительностей переходных процессов. Минимальная и максимальная длительности}{25}{subsection.0.3.5}%
-\contentsline {section}{\numberline {4}Оптимальное уравнение}{27}{section.0.4}%
-\contentsline {subsection}{\numberline {4.1}Линии равных уровней интегрального показателя качества при нулевом весовом множителе}{27}{subsection.0.4.1}%
-\contentsline {subsection}{\numberline {4.2}Линии равных уровней интегрального показателя качества при бесконечно большом весовом множителе}{29}{subsection.0.4.2}%
-\contentsline {subsection}{\numberline {4.3}Линии равных уровней интегрального показателя качества при весовом множителе, определённым на основе ограничений}{31}{subsection.0.4.3}%
-\contentsline {subsection}{\numberline {4.4}Анализ переходных процессов по оптимальной кривой}{32}{subsection.0.4.4}%
-\contentsline {subsection}{\numberline {4.5}Описание наилучшего переходного процесса}{33}{subsection.0.4.5}%
-\contentsline {section}{Выводы}{35}{section*.81}%
+\contentsline {section}{\numberline {3}Исследование переходных процессов}{18}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}Обратное преобразование Лапласа}{18}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}Особенности переходных процессов в области устойчивости и на её границе}{19}{subsection.0.3.2}%
+\contentsline {subsection}{\numberline {3.3}Область допустимых значений крутящего момента на выходном валу передаточного механизма}{21}{subsection.0.3.3}%
+\contentsline {subsection}{\numberline {3.4}Область допустимых значений управляющего сигнала}{22}{subsection.0.3.4}%
+\contentsline {subsection}{\numberline {3.5}Линии равных длительностей переходных процессов. Минимальная и максимальная длительности}{24}{subsection.0.3.5}%
+\contentsline {section}{\numberline {4}Оптимальное уравнение}{26}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}Линии равных уровней интегрального показателя качества при нулевом весовом множителе}{26}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}Линии равных уровней интегрального показателя качества при бесконечно большом весовом множителе}{28}{subsection.0.4.2}%
+\contentsline {subsection}{\numberline {4.3}Линии равных уровней интегрального показателя качества при весовом множителе, определённым на основе ограничений}{30}{subsection.0.4.3}%
+\contentsline {subsection}{\numberline {4.4}Анализ переходных процессов по оптимальной кривой}{31}{subsection.0.4.4}%
+\contentsline {subsection}{\numberline {4.5}Описание наилучшего переходного процесса}{32}{subsection.0.4.5}%
+\contentsline {section}{Выводы}{34}{section*.80}%

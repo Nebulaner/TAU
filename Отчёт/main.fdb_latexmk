@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1779712291.08325 "e:/Политех/4 сем/ТАУ/Отчёт/main.tex" "main.pdf" "main" 1779712297.25635 0
+["pdflatex"] 1779806644.83013 "e:/Политех/4 сем/ТАУ/Отчёт/main.tex" "main.pdf" "main" 1779806651.03863 0
   "C:/Users/Константин" 1748207773 19172 27523a2ba3cb0b8d17ae06ae80dac3f7 ""
   "C:/Users/Константин Гумницкий/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1775486384 82507 a9eef8696c92627b87e9975edea03b2a ""
   "C:/Users/Константин Гумницкий/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1440.pk" 1775486400 16968 c4337584e350c942df942510103c9b6c ""
@@ -51,7 +51,6 @@
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1247596667 35752 024fb6c41858982481f6968b5fc26508 ""
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1247596666 32362 bc3f3eec7ab7d65fe700963d4017d32c ""
-  "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1247596667 32762 7fee39e011c23b3589931effd97b9702 ""
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb" 1247596673 31764 459c573c03a4949a528c2cc7f557e217 ""
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -255,12 +254,12 @@
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
   "C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/tex/latex/xurl/xurl.sty" 1641733940 4675 e4b8c405820368c2dfb03526e16d725a ""
-  "Sheme.png" 1779702591 31352 099d3ab71a9cfa036187475b05e7bf76 ""
-  "e:/Политех/4 сем/ТАУ/Отчёт/main.tex" 1779712284 56369 48e695eab797e4da9a1e429cf0d34308 ""
-  "main.aux" 1779712296 6760 cfe4b884a099dfa027866f9f4379b19d "pdflatex"
-  "main.out" 1779712296 11471 89ca4aad92e3c40b9f8640816b09d611 "pdflatex"
-  "main.tex" 1779712284 56369 48e695eab797e4da9a1e429cf0d34308 ""
-  "main.toc" 1779712296 4099 e7078ed567a5c5b8f6307b779459f775 "pdflatex"
+  "Sheme.jpg" 1779806608 10419 1b4085c697b5fd1027b5414fae230be4 ""
+  "e:/Политех/4 сем/ТАУ/Отчёт/main.tex" 1779806644 55810 e56cfb2c44a56233730697250adba75d ""
+  "main.aux" 1779806650 6782 acfa850ae91c347af2794a9e18c70ba1 "pdflatex"
+  "main.out" 1779806650 11521 e6765f1dc5a73d4deb800c7b008a0c84 "pdflatex"
+  "main.tex" 1779806644 55810 e56cfb2c44a56233730697250adba75d ""
+  "main.toc" 1779806650 4120 bac0cc18a975ba218ff3749c3965b6fd "pdflatex"
   (generated)
   "main.aux"
   "main.log"
