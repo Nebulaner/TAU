@@ -1,0 +1,13 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/e:\\Политех\\4 сем\\ТАУ\\Отчёт\\main.aux": true,
+        "**/e:\\Политех\\4 сем\\ТАУ\\Отчёт\\main.log": true,
+        "**/e:\\Политех\\4 сем\\ТАУ\\Отчёт\\main.gz": true,
+        "**/e:\\Политех\\4 сем\\ТАУ\\Отчёт\\main.out": true
+    }
+}
