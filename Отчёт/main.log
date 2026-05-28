@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  26 MAY 2026 17:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.4.6)  28 MAY 2026 22:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1107,7 +1107,7 @@ File: Sheme.jpg Graphic file (type jpg)
 Package pdftex.def Info: Sheme.jpg  used on input line 163.
 (pdftex.def)             Requested size: 413.32193pt x 204.5408pt.
  [6 <./Sheme.jpg>] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18]
-Overfull \hbox (16.411pt too wide) in paragraph at lines 555--564
+Overfull \hbox (16.411pt too wide) in paragraph at lines 559--568
  [][] 
  []
 
@@ -1115,7 +1115,7 @@ Overfull \hbox (16.411pt too wide) in paragraph at lines 555--564
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [19]
-Underfull \hbox (badness 1354) in paragraph at lines 609--609
+Underfull \hbox (badness 1354) in paragraph at lines 613--613
 []\T2A/cmr/m/n/14.4 ���. 4: |��-����� �����-��-��-��� � ��-��-���-��� ��-��-���-��� �� ����-��-���
  []
 
@@ -1127,13 +1127,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31] [32]
-Overfull \hbox (77.61726pt too wide) detected at line 1062
-\OML/cmm/m/it/14.4 s[] \OMS/cmsy/m/n/14.4 ^^Y ^^@\OT1/cmr/m/n/14.4 0\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 7 \OMS/cmsy/m/n/14.4 ^^F \OT1/cmr/m/n/14.4 10\OML/cmm/m/it/14.4 j;  []
- []
-
-[33]
-Underfull \hbox (badness 1270) in paragraph at lines 1097--1099
+[31] [32] [33]
+Underfull \hbox (badness 1270) in paragraph at lines 1100--1102
 \T2A/cmr/m/n/14.4 � ��-����-��-��-��-�� ���-��-��-�� ���-��-�� � �����-������� ����-��-��-�� ��-
  []
 
@@ -1147,7 +1142,7 @@ LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E6765F1DC5A73D4DEB800C7B008A0C84;11521.
+(rerunfilecheck)             Checksum: 60A11F1B9FD566C9B530CEAE177094F8;11487.
  )
 (\end occurred inside a group at level 1)
 
@@ -1156,15 +1151,15 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 Here is how much of TeX's memory you used:
  39803 strings out of 467867
  928691 string characters out of 5401843
- 1608732 words of memory out of 5000000
+ 1607732 words of memory out of 5000000
  67916 multiletter control sequences out of 15000+600000
  646801 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 88i,20n,94p,2128b,2377s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 88i,20n,94p,2111b,2377s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labi2074.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0700.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1440.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx3583.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx2074.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk> <C:\Users\Константин Гумницкий\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1440.pk><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Константин Гумницкий/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on main.pdf (37 pages, 382258 bytes).
+Output written on main.pdf (37 pages, 381257 bytes).
 PDF statistics:
- 811 PDF objects out of 1000 (max. 8388607)
+ 809 PDF objects out of 1000 (max. 8388607)
  154 named destinations out of 1000 (max. 500000)
  226 words of extra memory for PDF output out of 10000 (max. 10000000)
 
